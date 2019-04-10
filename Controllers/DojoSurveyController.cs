@@ -5,8 +5,7 @@ namespace DojoSurvey.Controllers
 {
   public class DojoSurveyController : Controller
   {
-    [HttpGet]
-    [Route("")]
+    [HttpGet("")]
     public IActionResult Index()
     {
       return View("Index");

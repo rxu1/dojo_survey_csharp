@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC1/DojoSurvey/DojoSurvey.csproj",
+      "projectUniqueName": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/DojoSurvey/DojoSurvey.csproj",
       "projectName": "DojoSurvey",
-      "projectPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC1/DojoSurvey/DojoSurvey.csproj",
+      "projectPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/DojoSurvey/DojoSurvey.csproj",
       "packagesPath": "/Users/rx/.nuget/packages/",
-      "outputPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC1/DojoSurvey/obj/",
+      "outputPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/DojoSurvey/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
